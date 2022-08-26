@@ -1,0 +1,8 @@
+name = pranjal kumar
+email = pranjal41246@gmail.com
+address = E.W.S.-192
+Telephone = 8115993664
+fn=pranjal
+ln=kumar
+Username = admin
+Password = 12345

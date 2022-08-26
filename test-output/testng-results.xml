@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-24T11:08:56 IST" name="Default suite" finished-at="2022-08-24T11:08:57 IST" duration-ms="1967">
+    <groups>
+    </groups>
+    <test started-at="2022-08-24T11:08:56 IST" name="Default test" finished-at="2022-08-24T11:08:57 IST" duration-ms="1967">
+      <class name="com.Automation.Test.SigmaLogin_Test">
+        <test-method is-config="true" signature="Precondition()[pri:0, instance:com.Automation.Test.SigmaLogin_Test@15aab8c6]" started-at="2022-08-24T11:08:56 IST" name="Precondition" finished-at="2022-08-24T11:08:57 IST" duration-ms="1163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method signature="Verify_LoginTest()[pri:0, instance:com.Automation.Test.SigmaLogin_Test@15aab8c6]" started-at="2022-08-24T11:08:57 IST" name="Verify_LoginTest" finished-at="2022-08-24T11:08:57 IST" duration-ms="782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginTest -->
+      </class> <!-- com.Automation.Test.SigmaLogin_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
